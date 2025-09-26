@@ -1,4 +1,4 @@
-# 📊 Assignment_Pazago – Buffett RAG Chatbot
+# 📊 RAG Chatbot
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using **Mastra**, **Cohere embeddings**, and **OpenAI GPT**.  
 It allows querying **Warren Buffett’s Berkshire Hathaway shareholder letters (2019–2024)** with natural language.
